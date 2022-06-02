@@ -1,4 +1,4 @@
-# frontpagebenri
+# company dashboard example
 
 ## Project setup
 ```
